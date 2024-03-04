@@ -1,0 +1,29 @@
+Opencv
+
+what we learn
+
+basics
+
+  reading images and video
+  image transformation
+  drawing shapes
+  putting text
+
+advanced 
+
+  color spaces
+  bitwise operation
+  masking
+  histogram computation
+  edge detection
+  thresholding
+
+faces
+
+  face detection
+  face recognition
+  deep computer vision
+
+
+
+main interputer : C:\Users\prawi\AppData\Local\Programs\Python\Python312\python.exe
